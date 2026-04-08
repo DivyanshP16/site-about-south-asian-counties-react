@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import {
-  HashRouter,
+  BrowserRouter,
   Navigate,
   Route,
   Routes
@@ -32,7 +32,7 @@ import FeedbackPage from './pages/FeedbackPage';
 
 function App() {
   return (
-    <HashRouter
+    <BrowserRouter
       future={{
         v7_startTransition: true,
         v7_relativeSplatPath: true
