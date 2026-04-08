@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/site-about-south-asian-counties-react/static/css/main.38f7160a.css",
+    "main.js": "/site-about-south-asian-counties-react/static/js/main.df254f4a.js",
+    "static/js/453.b44a3c72.chunk.js": "/site-about-south-asian-counties-react/static/js/453.b44a3c72.chunk.js",
+    "index.html": "/site-about-south-asian-counties-react/index.html",
+    "main.38f7160a.css.map": "/site-about-south-asian-counties-react/static/css/main.38f7160a.css.map",
+    "main.df254f4a.js.map": "/site-about-south-asian-counties-react/static/js/main.df254f4a.js.map",
+    "453.b44a3c72.chunk.js.map": "/site-about-south-asian-counties-react/static/js/453.b44a3c72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38f7160a.css",
+    "static/js/main.df254f4a.js"
+  ]
+}
